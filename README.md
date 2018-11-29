@@ -6,6 +6,7 @@ networks.
 - Made with Python
 - Uses only the standard math library and the PIL image processing library to manipulate pixel values
 - Includes greyscale options and Gaussian blurring
+- Works for any jpeg or png image. Note: Large images take a long time to process.
 
 # Images
 
