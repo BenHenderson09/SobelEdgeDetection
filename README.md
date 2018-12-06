@@ -1,6 +1,6 @@
 # SobelEdgeDetection
 This program is designed for detecting edges in images using the sobel technique. This method is also used for convolutional neural
-networks.
+networks, by using a pixel filter to detect changes in pixel properties.
 
 # Program Details
 - Made with Python
